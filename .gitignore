@@ -1,0 +1,6 @@
+*.o
+*.exe
+HelloWorld/.settings/language.settings.xml
+HelloWorld/.settings/org.eclipse.cdt.managedbuilder.core.prefs
+HelloWorld/.cproject
+HelloWorld/.project
